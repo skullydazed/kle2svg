@@ -1,0 +1,4 @@
+nose2
+cov-core
+svgwrite
+#kle2xy
