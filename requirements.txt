@@ -1,4 +1,7 @@
 nose2
 cov-core
 svgwrite
+colour
 #kle2xy
+flask
+requests

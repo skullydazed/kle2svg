@@ -24,6 +24,7 @@ setup(
     packages=find_packages(),
     #scripts=['bin/example-numpad'],
     include_package_data=True,
+    install_requires=['svgwrite', 'colour'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
